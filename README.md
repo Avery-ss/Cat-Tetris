@@ -82,8 +82,8 @@ Cat-Tetris/
 │
 ├── assets/
 │   ├── images/
-│   ├── fonts/
-│   └── sounds/
+│   └── fonts/
+│   
 │
 ├── screenshots/
 │   ├── start_screen.png
@@ -92,7 +92,6 @@ Cat-Tetris/
 │
 ├── index.py
 ├── record.txt
-├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
