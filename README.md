@@ -46,15 +46,15 @@ Cat Tetris представляет собой классическую игру
 
 ### Стартовый экран
 
-![Start Screen](screenshots/start_screen.png)
+![Start Screen](start_screen.png)
 
 ### Игровой процесс
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](gameplay.png)
 
 ### Экран завершения игры
 
-![Game Over](screenshots/game_over.png)
+![Game Over](game_over.png)
 
 ---
 
@@ -72,29 +72,6 @@ https://rutube.ru/video/private/0b61d8c9e35c0d11a8784e3dbbe2fa1c/?p=g0OBNrHl-bBQ
 - Pygame
 - Git
 - GitHub
-
----
-
-## 📂 Структура проекта
-
-```text
-Cat-Tetris/
-│
-├── assets/
-│   ├── images/
-│   └── fonts/
-│   
-│
-├── screenshots/
-│   ├── start_screen.png
-│   ├── gameplay.png
-│   └── game_over.png
-│
-├── index.py
-├── record.txt
-├── README.md
-└── .gitignore
-```
 
 ---
 
